@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudassir7732/) [![Website](https://img.shields.io/website?url=http%3A//www.website.com)](https://mudassir7732.dorik.io) [![Facebook](https://i.postimg.cc/hv8tKsQH/tt.png)](https://www.facebook.com/profile.php?id=61555242359167) [![LinkedIn](https://i.postimg.cc/NFQKVFd8/tt.png)](https://www.upwork.com/freelancers/~019d23e81b7d1d3259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudassir-wraux/) [![Website](https://img.shields.io/website?url=http%3A//www.website.com)](https://mudassir-wraux.dorik.io) [![Facebook](https://i.postimg.cc/hv8tKsQH/tt.png)](https://www.facebook.com/profile.php?id=61555242359167) [![LinkedIn](https://i.postimg.cc/NFQKVFd8/tt.png)](https://www.upwork.com/freelancers/~019d23e81b7d1d3259)
 
 ## 💻 Tech Stack:
 ![MySQL](https://i.postimg.cc/05FfSQSr/tt.png) ![MySQL](https://i.postimg.cc/RhZwrk23/tt.png)
@@ -13,9 +13,9 @@
 ![MySQL](https://i.postimg.cc/3NQGbM9Q/tt.png)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mudassir7732&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mudassir7732&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir7732&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mudassir-wraux&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mudassir-wraux&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir-wraux&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mudassir7732&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mudassir-wraux&theme=radical&no-frame=false&no-bg=false&margin-w=4)
