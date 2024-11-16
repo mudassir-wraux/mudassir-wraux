@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/mudassir7732/) https://img.shields.io/website?url=http%3A//www.website.com](https://mudassir7732.dorik.io) https://i.postimg.cc/hv8tKsQH/tt.png](https://www.facebook.com/profile.php?id=61555242359167) https://i.postimg.cc/NFQKVFd8/tt.png](https://www.upwork.com/freelancers/~019d23e81b7d1d3259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/mudassir7732/) https://img.shields.io/website?url=http%3A//www.website.com](https://mudassir7732.dorik.io) https://i.postimg.cc/hv8tKsQH/tt.png](https://www.facebook.com/profile.php?id=61555242359167) https://i.postimg.cc/NFQKVFd8/tt.png](https://www.upwork.com/freelancers/~019d23e81b7d1d3259)
 
 ## 💻 Tech Stack:
 !https://i.postimg.cc/05FfSQSr/tt.png !https://i.postimg.cc/RhZwrk23/tt.png
